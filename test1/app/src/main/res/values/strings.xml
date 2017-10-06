@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string name="go">Go!</string>
+    <string name="bosdike">Bosdike</string>
+    <string name="wifi">Wifi</string>
+    <string name="get_mac">Get Mac</string>
+    <string name="mac_will_be_visible_here">Mac will be Visible here</string>
+    <string name="door">door</string>
+</resources>
